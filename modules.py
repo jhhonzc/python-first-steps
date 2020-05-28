@@ -6,10 +6,10 @@
 #
 
 # # example 1 import module
-# import datetime 
+import datetime 
 
-# print(datetime.date.today()) # imprime la fecha en formato AAAA-MM-DD
-# print(datetime.timedelta(minutes=70)) # convierte los minutos en horas con formato HH:MM:SS
+print(datetime.date.today()) # imprime la fecha en formato AAAA-MM-DD
+print(datetime.timedelta(minutes=70)) # convierte los minutos en horas con formato HH:MM:SS
 
 # example 2 from module import
 from datetime import timedelta, date

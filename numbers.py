@@ -7,8 +7,8 @@ flotante = 10.3 # float
 print(type(entero), type(flotante))
 
 print(2**3) # potencia 2^3
-print(3 // 2) # modulo, resduo
-print(3 % 2) # modulo, resduo
+print(3 // 2) # modulo, residuo
+print(3 % 2) # modulo, residuo
 
 age = input("Insert your age: ") # por defecto lee cadenas (strings)
 new_age = int(age) + 2 # funcion para convertir cadena a entero (int)

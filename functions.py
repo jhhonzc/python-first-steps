@@ -38,5 +38,5 @@ del add
 print("\nlambda function with 2 arguments")
 
 add = lambda num1, num2: num1 + num2
- 
+
 print(add (20, 13))
